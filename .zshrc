@@ -1,4 +1,4 @@
-#!/bin/zsh
+8#!/bin/zsh
 # --- Locale ---
 if [ -z "$LANG" ]; then
   if [ -n "$XDG_CONFIG_HOME" ] && [ -r "$XDG_CONFIG_HOME/locale.conf" ]; then
